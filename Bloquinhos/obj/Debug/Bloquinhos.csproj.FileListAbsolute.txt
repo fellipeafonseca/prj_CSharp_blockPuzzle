@@ -1,0 +1,425 @@
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\122608\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+F:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+F:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+F:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+F:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+F:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+F:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+F:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+F:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+F:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+E:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+E:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+E:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+E:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+E:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+E:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+E:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+E:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+E:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+D:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+D:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+D:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+D:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+D:\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+D:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+D:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+D:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+D:\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Danilo\Downloads\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Danilo\Pictures\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Google Drive\Bloquinhos\Bloquinhos (1)\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Form1.resources
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Danilo\Pictures\Projeto EDA\Projeto EDA\Bloquinhos\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+E:\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+E:\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+E:\Projeto EDA\Bloquinhos (1)\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+E:\Projeto EDA\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\120413\Downloads\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Danilo\Desktop\Bloquinhos  - Final\Bloquinhos  - Final\Bloquinhos (1) - Final\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Bloquinhos\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Agustinho\Desktop\Projeto EDA\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Danilo\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\120413\Downloads\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+D:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\S\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+E:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+F:\Projeto EDA\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+D:\Projeto EDA\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+D:\Projeto EDA\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+D:\Projeto EDA\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\122608\Desktop\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\122608\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\S\Desktop\Bloquinhos Final-Em Haver para Implementar\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\S\Desktop\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\S\Desktop\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\S\Desktop\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+E:\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+E:\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+E:\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+E:\Arqui\Projeto EDA\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\saofafon\Documents\Bloquinhos\1\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\saofafon\Desktop\Projeto EDA 2\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\122608\Downloads\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\saofafon\Videos\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Fellipe\Videos\Projeto Atual Mais Novo\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.Cache
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csprojAssemblyReference.cache
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.cache
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
