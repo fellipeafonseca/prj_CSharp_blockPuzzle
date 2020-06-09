@@ -1,5 +1,6 @@
 # jogos_bloquinhos_EDA_IA
 Jogo dos bloquinhos coloridos usando conceitos de Estruturas de Dados e Inteligência artificial
-imagem bloquinhos.JPG
+![Alt text](/relative/path/to/imagem bloquinhos.JPG?raw=true "Optional Title")
+
 
 
