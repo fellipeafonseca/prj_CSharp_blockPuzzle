@@ -5,4 +5,7 @@
 ![Imagem Bloco](https://github.com/fellipespfc/jogos_bloquinhos_EDA_IA/blob/master/imagem%20bloquinhos.JPG)
 
 
+https://drive.google.com/file/d/1PB4l6k92kY3AsbOCOmGlWM9rqOxz1--m/view?usp=sharing
+
+
 
