@@ -35,10 +35,13 @@ namespace Bloquinhos
 
         private void btnComecar_Click(object sender, EventArgs e)
         {
-            simpleSound.Stop();
-            Jogo _f1;
-            _f1 = new Jogo();
-            _f1.Show();
+            Jogo2 form1 = new Jogo2();
+            form1.Show();
+
+            //simpleSound.Stop();
+            //Jogo _f1;
+            //_f1 = new Jogo();
+            //_f1.Show();
             Hide();
 
             //System.Media.SoundPlayer MeuPlayer = new System.Media.SoundPlayer(@"C:\Users\Danilo\Desktop\Bloquinhos\Bloquinhos\Properties\blink.wav");

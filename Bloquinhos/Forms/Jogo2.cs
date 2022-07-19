@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace Bloquinhos
 {
 
-    public partial class Jogo : Form
+    public partial class Jogo2 : Form
     {
         //   SoundPlayer somfundoJogo = new SoundPlayer(@"C:\Users\S\Desktop\FundoJogo.wav");
         //SoundPlayer somErro = new SoundPlayer(@"C:\Users\S\Desktop\Erro.wav");
@@ -41,11 +41,11 @@ namespace Bloquinhos
         private Color cor_botao_habilitado;
         private bool passo;
 
-        public Jogo()
+        public Jogo2()
         {
             numero_cores = 3;
-            largura = 4;
-            altura = 4;
+            largura = 6;
+            altura = 6;
 
            
             cor_botao_habilitado = Color.Red;
@@ -99,11 +99,11 @@ namespace Bloquinhos
 
             #endregion
 
-
+            
            
 
             InitializeComponent();
-            cor_botao_desabilitado = btnGirarAntiHorario.BackColor;
+           
 
           
 
@@ -111,6 +111,7 @@ namespace Bloquinhos
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.Size = new Size( 35 * 6 + 35, 35 * 6 + 35) ;
 
             Iniciar_Jogo(true);
 
@@ -131,7 +132,7 @@ namespace Bloquinhos
             {
 
                 tableBloquinhos = new TableLayoutPanel();
-                tableBloquinhos.Location = new Point(12, 12);
+                tableBloquinhos.Location = new Point(5, 25);
                 tableBloquinhos.AutoSize = true;
             }
 
@@ -146,14 +147,14 @@ namespace Bloquinhos
             matriz_Inicial = new int[largura, altura];
             tableBloquinhos.RowCount = largura;
             tableBloquinhos.ColumnCount = altura;
-            pontuacao_comp.Text = pontuacao_jog.Text = (largura * altura).ToString();
-            lbl_Numero_Jog.Text = lbl_Numero_PC.Text = "0";
+          
 
             if (!this.Controls.Contains(tableBloquinhos))
             {
                 this.Controls.Add(tableBloquinhos);
             }
            
+         
 
             for (int x = 0; x < largura; x++)
             {
@@ -165,8 +166,8 @@ namespace Bloquinhos
 
                         b = new Button();
                         b.Text = x + "," + y;
-                        b.Width = 30;
-                        b.Height = 30;
+                        b.Width = 35;
+                        b.Height = 35;
                         b.Font = new Font(b.Font.Name, b.Font.Size, FontStyle.Bold);
                         b.Click += new EventHandler(OnClick);
                         matrizButton[x, y] = b;
@@ -191,55 +192,6 @@ namespace Bloquinhos
             
         }
 
-        //Tempo do Jogo
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-
-            int segundos;
-
-            segundos = Convert.ToInt32(lblTempo.Text);
-
-            segundos -= 1;
-
-
-            if (segundos < 10)
-            {
-                lblTempo.Text = "0" + segundos.ToString();
-            }
-
-
-
-            else
-            {
-
-
-                lblTempo.Text = segundos.ToString();
-
-
-            }
-
-
-            if (segundos % 5 == 0)
-            {
-                Random r = new Random();
-
-                int id = r.Next(0, 5);
-
-                this.BackColor = coresFundo[id];
-            }
-
-
-
-
-            //# minutos
-            if (segundos == 0)
-            {
-                timer1.Enabled = false;
-                FimJogo(int.Parse(lblPontuacao.Text), quantidadesBloquinhos);
-            }
-
-
-        }
 
         /// <summary>
         /// Verifica a Pontuacao do usuario e direciona para qual formulario deve ser Redirecionado.
@@ -340,7 +292,7 @@ namespace Bloquinhos
                 else
                 {
 
-                    f.LabelPontuacao(lblPontuacao.Text, posicaoSalvar);
+                   
 
                     f.Show();
                     Hide();
@@ -360,8 +312,7 @@ namespace Bloquinhos
 
 
 
-                //Passa a pontuação do usuario para o outro Formulario
-                f.LabelPontuacao(lblPontuacao.Text, -1);
+             
 
                 f.Show();
                 Hide();
@@ -391,17 +342,17 @@ namespace Bloquinhos
 
             int cor = matrizInteiros[int.Parse(v[0]), int.Parse(v[1])];
 
-            int count = p.Colorir(matrizInteiros, pontoClicado, matrizInteiros.GetLength(0), matrizInteiros.GetLength(1), checkBox_Movimenta_C.Checked);
+            int count = p.Colorir(matrizInteiros, pontoClicado, matrizInteiros.GetLength(0), matrizInteiros.GetLength(1), true);
 
             if (count != 0)
             {
-                pontuacao_jog.Text = (Convert.ToInt32(pontuacao_jog.Text) - count).ToString();
+              
 
              //   AtualizaQuantidadeBloquinho(count, cor);
                // AtualizaPontuacao(count);
                 //Colori os Botões
                 ColoriBloquinhos(matrizInteiros, true);
-                lbl_Numero_Jog.Text = (Convert.ToInt32(lbl_Numero_Jog.Text) + 1).ToString();
+               
             }
 
             else
@@ -416,14 +367,9 @@ namespace Bloquinhos
         /// </summary>
         private void btnRandomico_Click(object sender, EventArgs e)
         {
-            if (!txt_colorir.Text.Equals(string.Empty))
-            {
-                Colorir_Funcao(txt_colorir.Text);
-            }
-            else
-            {
+            
                 ColorirRandomico();
-            }
+            
         }
 
         /// <summary>
@@ -435,7 +381,7 @@ namespace Bloquinhos
 
             p.GirarAntiHorario(matrizInteiros, matrizInteiros.GetLength(0),
                 matrizInteiros.GetLength(1));
-            lbl_Numero_Jog.Text = (Convert.ToInt32(lbl_Numero_Jog.Text) + 1).ToString();
+         
             ColoriBloquinhos(matrizInteiros,true);
 
         }
@@ -449,7 +395,7 @@ namespace Bloquinhos
 
             p.GirarHorario(matrizInteiros, matrizInteiros.GetLength(0),
                 matrizInteiros.GetLength(1));
-            lbl_Numero_Jog.Text = (Convert.ToInt32(lbl_Numero_Jog.Text) + 1).ToString();
+            
             ColoriBloquinhos(matrizInteiros, true);
 
         }
@@ -519,12 +465,7 @@ namespace Bloquinhos
             }
 
 
-            btnVermelho.Text = QuantidadeVermelho.ToString();
-            btnRosa.Text = QuantidadeRosa.ToString();
-            btnLaranja.Text = QuantidadeLaranja.ToString();
-            btnAzul.Text = QuantidadeAzul.ToString();
-            btnVerde.Text = QuantidadeVerde.ToString();
-            btnAmarelo.Text = QuantidadeAmarelo.ToString();            
+                  
 
 
 
@@ -617,69 +558,15 @@ namespace Bloquinhos
 
 
 
-            if (quantidadesBloquinhos == 0 || quantidadesBloquinhos == 1)
-            {
-                FimJogo(int.Parse(lblPontuacao.Text), quantidadesBloquinhos);
-            }
+            //if (quantidadesBloquinhos == 0 || quantidadesBloquinhos == 1)
+            //{
+            //    FimJogo(int.Parse(lblPontuacao.Text), quantidadesBloquinhos);
+            //}
 
 
 
 
-            if (count != 1 && count != 0)
-            {
-                //Cor Vermelha
-                if (cor == 0)
-                {
-
-                    btnVermelho.Text = ((int.Parse(btnVermelho.Text)) - count).ToString();
-
-                }
-
-                //Cor Amarela
-                if (cor == 1)
-                {
-
-                    btnAmarelo.Text = ((int.Parse(btnAmarelo.Text)) - count).ToString();
-
-                }
-
-
-                //Cor Azul
-                if (cor == 2)
-                {
-
-                    btnAzul.Text = ((int.Parse(btnAzul.Text)) - count).ToString();
-
-                }
-
-
-                //Cor Verde
-                if (cor == 3)
-                {
-
-                    btnVerde.Text = ((int.Parse(btnVerde.Text)) - count).ToString();
-
-                }
-
-
-                //Cor Laranja
-                if (cor == 4)
-                {
-
-                    btnLaranja.Text = ((int.Parse(btnLaranja.Text)) - count).ToString();
-
-                }
-
-
-                //Cor Rosa
-                if (cor == 5)
-                {
-
-                    btnRosa.Text = ((int.Parse(btnRosa.Text)) - count).ToString();
-
-                }
-
-            }
+           
 
         }
 
@@ -690,68 +577,39 @@ namespace Bloquinhos
         private void AtualizaPontuacao(int count)
         {
 
-            lblPontuacao.Text = (int.Parse(lblPontuacao.Text) + count).ToString();
+          //  lblPontuacao.Text = (int.Parse(lblPontuacao.Text) + count).ToString();
 
         }
 
         /// <summary>
         /// Caso usuario Click em um Botão que não tenha combinações de cores a sua pontuação será diminuida em 5 pontos. Caso Seja 0 será mantida
         /// </summary>
-        private void DiminuiPontuacao()
-        {
+        //private void DiminuiPontuacao()
+        //{
 
 
-            if (int.Parse(lblPontuacao.Text) != 0)
-            {
+        //    if (int.Parse(lblPontuacao.Text) != 0)
+        //    {
 
-                //somErro.Play();
-                Thread.Sleep(900);
+        //        //somErro.Play();
+        //        Thread.Sleep(900);
 
-                //somfundoJogo.PlayLooping();
-                lblPontuacao.Text = (int.Parse(lblPontuacao.Text) - 5).ToString();
+        //        //somfundoJogo.PlayLooping();
+        //        lblPontuacao.Text = (int.Parse(lblPontuacao.Text) - 5).ToString();
 
-            }
+        //    }
 
 
-            if (int.Parse(lblPontuacao.Text) < 0)
-            {
-                lblPontuacao.Text = "0";
-            }
+        //    if (int.Parse(lblPontuacao.Text) < 0)
+        //    {
+        //        lblPontuacao.Text = "0";
+        //    }
 
-        }
+        //}
 
         private void btn_Solucionar_Click(object sender, EventArgs e)
         {
-            if (solucao!=null)
-            {
-                solucao.Clear();
-                ColoriBloquinhos(matrizInteiros, true);
-                
-
-            }
-
-           
-
-            matriz_Inicial = matrizInteiros.Clone() as int[,];
-
-            Solucao s = new Solucao(matrizInteiros);
-            
-            s.Verifica_coluna = checkBox_Movimenta_C.Checked;
-            s.Solution_hard = checkBox_Solucao_Hard.Checked;
-            solucao = s.Solution();
-            pontuacao_comp.Text = s.Conta_Blocos_Aval_Function(matrizInteiros).ToString();
-
-            if (solucao.Count!=0)
-            {
-
-                MessageBox.Show("Solução Encontrada.");
-                lbl_Numero_PC.Text = solucao.Count().ToString();
-                
-            }
-            else
-            {
-                MessageBox.Show("Solução não Encontrada!!!");
-            }
+          
 
 
         //    foreach (Node s in solucao)
@@ -781,13 +639,13 @@ namespace Bloquinhos
                     if (!set_botao_giro)
                     {
                         ColoriBloquinhos(solucao[0].Info_2 as int[,], false);
-                        Verifica_No_Giro_Novo(solucao[0], true);
+                      
                         set_botao_giro = true;
                     }
                    else
                     {
-                        Verifica_No_Giro_Novo(solucao[0], false);
-                        pontuacao_comp.Text = (solucao[0].Cont_Blocos).ToString();
+                      
+                        
                         ColoriBloquinhos(solucao[0].Info as int[,], true);
                         solucao.RemoveAt(0);
                         set_botao_giro = false;
@@ -803,7 +661,7 @@ namespace Bloquinhos
                     }
                    else
                     {
-                        pontuacao_comp.Text = (solucao[0].Cont_Blocos).ToString();
+                       
                         ColoriBloquinhos(solucao[0].Info as int[,], true);
                         solucao.RemoveAt(0);
                         passo = false;
@@ -828,8 +686,7 @@ namespace Bloquinhos
                 if (solucao[0].Giro_Ant || solucao[0].Giro_Hora)
                 {
                     //Verificar Isso Tempo
-                    Verifica_No_Giro(solucao[0], 3000);
-                    pontuacao_comp.Text = (solucao[0].Cont_Blocos).ToString();
+                 
                     ColoriBloquinhos(solucao[0].Info as int[,], true);
                     solucao.RemoveAt(0);
                     Update();
@@ -840,7 +697,6 @@ namespace Bloquinhos
                 {
                     Update();
                     Thread.Sleep(2000);
-                    pontuacao_comp.Text = (solucao[0].Cont_Blocos).ToString();
                     ColoriBloquinhos(solucao[0].Info as int[,], true);
                     solucao.RemoveAt(0);
                 }
@@ -850,60 +706,8 @@ namespace Bloquinhos
         }
 
 
-        private void Verifica_No_Giro(Node n, int tempo)
-        {
+      
 
-            if (n.Giro_Ant)
-            {
-                Color ant = btnGirarAntiHorario.BackColor;
-                btnGirarAntiHorario.BackColor = Color.Red;
-                Update();
-                Thread.Sleep(tempo);
-                btnGirarAntiHorario.BackColor = ant; 
-            }
-
-            if (n.Giro_Hora)
-            {
-                Color ant = btnGirarHorario.BackColor;
-                btnGirarHorario.BackColor = Color.Red;
-                Update();
-                Thread.Sleep(tempo);
-                btnGirarHorario.BackColor = ant;
-            }
-
-        }
-
-        private void Verifica_No_Giro_Novo(Node n, bool cor)
-        {
-
-            if (n.Giro_Ant)
-            {
-               
-                if (cor)
-                {
-                    //Red
-                    btnGirarAntiHorario.BackColor = cor_botao_habilitado;
-                }
-                else
-                {
-                    btnGirarAntiHorario.BackColor = cor_botao_desabilitado;
-                }
-               
-            }
-
-            if (n.Giro_Hora)
-            {
-                if (cor)
-                {
-                    btnGirarHorario.BackColor = cor_botao_habilitado;
-                }
-                else
-                {
-                    btnGirarHorario.BackColor = cor_botao_desabilitado;
-                }
-            }
-
-        }
         private void numericUpDown_Cores_ValueChanged(object sender, EventArgs e)
         {
             numero_cores = Convert.ToInt32(numericUpDown_Cores.Value);
@@ -936,10 +740,10 @@ namespace Bloquinhos
 
         private void checkBox_Solucao_Hard_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox_Solucao_Hard.Checked)
-            {
-                checkBox_Movimenta_C.Checked = true;
-            }
+          //  if (checkBox_Solucao_Hard.Checked)
+            //{
+              //  checkBox_Movimenta_C.Checked = true;
+            //}
             
         }
 
@@ -954,19 +758,84 @@ namespace Bloquinhos
             {
                 Solucao s = new Solucao();
                 matrizInteiros = matriz_Inicial.Clone() as int[,];
-                lbl_Numero_Jog.Text = "0";
-                pontuacao_jog.Text = s.Conta_Blocos_Aval_Function(matriz_Inicial).ToString();
                 ColoriBloquinhos(matrizInteiros, true);
             }
           
 
         }
 
-        private void checkBox_Movimenta_C_CheckedChanged(object sender, EventArgs e)
+       
+
+        private void reiniciarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (!checkBox_Movimenta_C.Checked)
+            Iniciar_Jogo(false);
+        }
+
+        private void colorirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ColorirRandomico();
+        }
+
+        private void animarSoluçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            while (solucao != null && solucao.Count > 0)
             {
-                checkBox_Solucao_Hard.Checked = false;
+                ColoriBloquinhos(solucao[0].Info_2 as int[,], false);
+
+                if (solucao[0].Giro_Ant || solucao[0].Giro_Hora)
+                {
+                    //Verificar Isso Tempo
+
+                    ColoriBloquinhos(solucao[0].Info as int[,], true);
+                    solucao.RemoveAt(0);
+                    Update();
+                    Thread.Sleep(2000);
+
+                }
+                else
+                {
+                    Update();
+                    Thread.Sleep(2000);
+                    ColoriBloquinhos(solucao[0].Info as int[,], true);
+                    solucao.RemoveAt(0);
+                }
+
+            }
+
+        }
+
+        private void solucionarIAToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (solucao != null)
+            {
+                solucao.Clear();
+                ColoriBloquinhos(matrizInteiros, true);
+
+
+            }
+
+
+
+            matriz_Inicial = matrizInteiros.Clone() as int[,];
+
+            Solucao s = new Solucao(matrizInteiros);
+
+            s.Verifica_coluna = true;
+            s.Solution_hard = true;
+
+            solucao = s.Solution();
+
+
+            if (solucao.Count != 0)
+            {
+
+                MessageBox.Show("Solução Encontrada.");
+
+
+            }
+            else
+            {
+                MessageBox.Show("Solução não Encontrada!!!");
             }
         }
     }

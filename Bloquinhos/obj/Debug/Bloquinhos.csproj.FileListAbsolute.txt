@@ -423,3 +423,20 @@ C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloq
 C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.csproj.CoreCompileInputs.cache
 C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.exe
 C:\Users\Fellipe\Documents\Bloquinhos\Bloquinhos Final\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.csproj.AssemblyReference.cache
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.csproj.SuggestedBindingRedirects.cache
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.FimJogo.resources
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Forms.GameOver.resources
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Jogo.resources
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Menu.resources
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Forms.Recordes.resources
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Properties.Resources.resources
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.csproj.GenerateResource.cache
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.csproj.CoreCompileInputs.cache
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.exe
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.pdb
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\bin\Debug\Bloquinhos.exe.config
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\bin\Debug\Bloquinhos.exe
+C:\Users\fellipe.fonseca\Source\Repos\jogos_bloquinhos_EDA_IA\Bloquinhos\bin\Debug\Bloquinhos.pdb
+C:\Users\fellipe.fonseca\source\repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Forms.Form1.resources
+C:\Users\fellipe.fonseca\source\repos\jogos_bloquinhos_EDA_IA\Bloquinhos\obj\Debug\Bloquinhos.Jogo2.resources
