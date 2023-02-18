@@ -43,9 +43,9 @@ namespace Bloquinhos
 
         public Jogo2()
         {
-            numero_cores = 3;
-            largura = 6;
-            altura = 6;
+            numero_cores = 4;
+            largura = 4;
+            altura = 4;
 
            
             cor_botao_habilitado = Color.Red;
@@ -111,12 +111,10 @@ namespace Bloquinhos
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Size = new Size( 35 * 6 + 35, 35 * 6 + 35) ;
+            this.Size = new Size( 50 * 4 + 50, 50 * 4 +50+50) ;
 
             Iniciar_Jogo(true);
 
-            numericUpDown_Matriz.Value = Convert.ToDecimal(altura);
-            numericUpDown_Cores.Value = Convert.ToDecimal(numero_cores);
 
         }
 
@@ -166,8 +164,8 @@ namespace Bloquinhos
 
                         b = new Button();
                         b.Text = x + "," + y;
-                        b.Width = 35;
-                        b.Height = 35;
+                        b.Width = 50;
+                        b.Height = 50;
                         b.Font = new Font(b.Font.Name, b.Font.Size, FontStyle.Bold);
                         b.Click += new EventHandler(OnClick);
                         matrizButton[x, y] = b;
@@ -710,11 +708,11 @@ namespace Bloquinhos
 
         private void numericUpDown_Cores_ValueChanged(object sender, EventArgs e)
         {
-            numero_cores = Convert.ToInt32(numericUpDown_Cores.Value);
+           // numero_cores = Convert.ToInt32(//numericUpDown_Cores.Value);
 
             if (numero_cores >10)
             {
-                numericUpDown_Cores.Value = 10;
+             //   numericUpDown_Cores.Value = 10;
                 numero_cores = 10;
             }
             Iniciar_Jogo(false);
@@ -724,12 +722,12 @@ namespace Bloquinhos
         private void numericUpDown_Matriz_ValueChanged(object sender, EventArgs e)
         {
 
-            largura  = Convert.ToInt32(numericUpDown_Matriz.Value);
-            altura = Convert.ToInt32(numericUpDown_Matriz.Value);
+            //largura  = Convert.ToInt32(numericUpDown_Matriz.Value);
+           // altura = Convert.ToInt32(numericUpDown_Matriz.Value);
 
             if (altura > 10)
             {
-                numericUpDown_Matriz.Value = 10;
+              //  numericUpDown_Matriz.Value = 10;
 
                 largura = altura = 10;
             }
