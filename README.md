@@ -13,7 +13,7 @@
 
 > O software usa inteligencia artificial para solucionar o jogo dos blocos coloridos, removendo o maior número de peças possíveis.
 
-> A ideia é remover os itens que sejam da mesma cor, e que estejam próximos.
+> A ideia é clicar para remover os itens que sejam da mesma cor, e que estejam próximos (vertical ou na horizontal).
 
 ## 💻 Pré-requisitos
 
