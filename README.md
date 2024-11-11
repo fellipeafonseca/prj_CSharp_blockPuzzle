@@ -1,4 +1,4 @@
-# Resolvendo o Jogo dos Blocos Coloridos com IA
+# Resolvendo o Jogo Block Puzzle (Quebra-Cabeça dos Blocos)
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui
 
